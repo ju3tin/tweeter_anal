@@ -1,6 +1,3 @@
-# tweeter_anal
-
-# README.md (in markdown format)
 # Idea Factory Trust Bot
 
 A simple X bot that analyzes the trustworthiness of a tweet's original author when triggered by the phrase "@projectruggaurd riddle me this" in a reply. The bot is designed to be deployed on a Replit Virtual Machine.
